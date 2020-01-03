@@ -1,0 +1,30 @@
+[
+    {
+        "title": "First Note",
+        "body": "Note was created using JSON"
+    },
+    {
+        "title": "Second Note",
+        "body": "Second note will be next to the first node ..."
+    },
+    {
+        "title": "Third Note",
+        "body": "Third note is a very nice node ..."
+    },
+    {
+        "title": "Fourth Note",
+        "body": "I found an alternative way to console.log"
+    },
+    {
+        "title": "Fifth Note",
+        "body": "Fifth note has been added"
+    },
+    {
+        "title": "Test Note",
+        "body": "How to do using firefox"
+    },
+    {
+        "title": "Hello World",
+        "body": "Created by using debugger"
+    }
+]
